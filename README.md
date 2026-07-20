@@ -43,19 +43,45 @@ An AI-powered career assistant that helps users analyze resumes, identify skill 
 - Tailwind CSS
 - Framer Motion
 - Axios
-- React Router
+- React Router DOM
 
 ## Backend
 - FastAPI
 - Python
 - Uvicorn
 
-## AI & Machine Learning
+## AI & LLM
 - Google Gemini API
-- Resume Parsing
+- Groq API
+- LangChain
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 
+## Vector Database
+- ChromaDB
+
+## Data Processing
+- PyPDF
+- Pandas
+- NumPy
+
+## Version Control & Tools
+- Git
+- GitHub
+- VS Code
 ---
+## ✨ Features
+
+- 📄 Resume Upload & Parsing
+- 📊 AI-powered ATS Resume Score
+- 🤖 Personalized Resume Feedback
+- 💼 Best Job Role Recommendation
+- 🧠 Skill Gap Analysis
+- 🗺️ Personalized Learning Roadmap
+- 💬 AI Career Chatbot powered by LangChain + Groq
+- 🔍 RAG-based document retrieval using ChromaDB
+- ⚡ FastAPI REST APIs
+- 🎨 Responsive UI built with React & Tailwind CSS
 
 # 📂 Project Structure
 
