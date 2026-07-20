@@ -1,4 +1,4 @@
-<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 49 30 PM" src="https://github.com/user-attachments/assets/f94051cf-1162-498a-aa9d-a82931a75ef7" /># AI Career Co-Pilot
+# AI Career Co-Pilot
 
 An AI-powered career assistant that helps users analyze resumes, identify skill gaps, discover suitable job roles, and receive personalized career guidance using Google Gemini AI.
 
