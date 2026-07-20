@@ -1,4 +1,4 @@
-# AI Career Co-Pilot
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 49 30 PM" src="https://github.com/user-attachments/assets/f94051cf-1162-498a-aa9d-a82931a75ef7" /># AI Career Co-Pilot
 
 An AI-powered career assistant that helps users analyze resumes, identify skill gaps, discover suitable job roles, and receive personalized career guidance using Google Gemini AI.
 
@@ -19,19 +19,22 @@ An AI-powered career assistant that helps users analyze resumes, identify skill 
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your application here)*
-
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+
+> <img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 50 04 PM" src="https://github.com/user-attachments/assets/676705cc-a905-4540-b040-43e06a5d7849" />
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 50 23 PM" src="https://github.com/user-attachments/assets/5d2cb3a9-5c77-45e3-8905-031d6a3df689" />
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 50 47 PM" src="https://github.com/user-attachments/assets/bff2b6a1-94ce-4331-8f1d-bce7c056617b" />
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 53 47 PM" src="https://github.com/user-attachments/assets/a3a5e5c8-ace5-42b4-9abc-8e8123bc9703" />
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 58 31 PM" src="https://github.com/user-attachments/assets/e4b84590-0157-4fbb-b380-943234e94df8" />
 
 ### 💬 AI Chatbot
-![Chatbot](screenshots/chatbot.png)
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 59 22 PM" src="https://github.com/user-attachments/assets/a38a7150-a3ef-46c6-a14a-cc00d49e6321" />
 
 ### 📄 Resume Upload
-![Resume](screenshots/resume.png)
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 51 51 PM" src="https://github.com/user-attachments/assets/a8178369-cdcb-40cb-94a6-db781ebf8644" />
+<img width="1280" height="831" alt="Screenshot 2026-07-20 at 10 52 29 PM" src="https://github.com/user-attachments/assets/3a35af83-f28b-4ffc-878b-3e4d828f26d4" />
 
 ---
 
