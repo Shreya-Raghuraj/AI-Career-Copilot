@@ -1,0 +1,96 @@
+Frontend Developer
+
+Overview
+
+A Frontend Developer is responsible for building the user interface of websites and web applications. They focus on creating responsive, accessible, and visually appealing applications that provide a great user experience. Frontend developers collaborate closely with backend developers, UI/UX designers, and product managers.
+
+Required Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Git and GitHub
+- REST APIs
+- Responsive Web Design
+- Browser Developer Tools
+
+Preferred Skills
+
+- TypeScript
+- Redux
+- Tailwind CSS
+- Next.js
+- Material UI
+- Testing with Jest or Cypress
+- Performance Optimization
+
+Responsibilities
+
+- Build responsive user interfaces.
+- Develop reusable React components.
+- Consume REST APIs.
+- Debug frontend issues.
+- Improve page speed and accessibility.
+- Work closely with designers and backend developers.
+- Write clean, maintainable code.
+
+Tools & Technologies
+
+- Visual Studio Code
+- React
+- Chrome DevTools
+- GitHub
+- Postman
+- npm
+- Vite
+
+Projects to Build
+
+- Portfolio Website
+- Weather App
+- E-commerce Store
+- Expense Tracker
+- Chat Application
+- Social Media Dashboard
+
+Career Growth
+
+Frontend Developer
+↓
+Senior Frontend Developer
+↓
+Frontend Architect
+↓
+Engineering Manager
+
+Interview Preparation
+
+Candidates should understand:
+- HTML semantics
+- CSS Flexbox & Grid
+- JavaScript closures and promises
+- React hooks
+- State management
+- API integration
+- Responsive design
+- Git workflows
+
+Salary Expectations
+
+India (Entry Level):
+₹4–8 LPA
+
+Mid-Level:
+₹8–18 LPA
+
+Senior:
+₹18–35+ LPA
+
+Learning Resources
+
+Official React Documentation
+MDN Web Docs
+JavaScript.info
+CSS Tricks
+Frontend Mentor

@@ -1,0 +1,7 @@
+role,required_skills
+ML Engineer,"Python,Machine Learning,Deep Learning,TensorFlow,PyTorch,Docker,Git,SQL"
+Data Scientist,"Python,Pandas,NumPy,Machine Learning,SQL,Statistics,Power BI"
+Backend Developer,"Python,FastAPI,Docker,Git,PostgreSQL,REST API"
+Frontend Developer,"HTML,CSS,JavaScript,React,Git"
+Full Stack Developer,"HTML,CSS,JavaScript,React,Python,FastAPI,Git,SQL"
+AI Engineer,"Python,Machine Learning,Deep Learning,LLMs,LangChain,Docker"
